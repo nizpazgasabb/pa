@@ -1,0 +1,13 @@
+h1{color:MediumSeaGreen;text-align:center;text-decoration:underline;}
+.verde{margin: 10px;padding:25px;border:3px solid green; border-radius:20 px;background-color:#beedc0; }
+.blu{border:3px solid SkyBlue;padding: 20px;margin: 15px; border-radius:20 px;background-color:Lavender;}
+#giallo{border:3px solid Khaki;padding:5px;margin:5px; border-radius:20 px;}
+caption{text-align:center;color:Tan;font-style:italic;background-color:Moccasin;}
+table { width:100%; border:1px solid grey;background-color:Moccasin}
+td{width:100%; border:1px solid grey}
+tr{width:100%; border:1px solid grey}
+th{width:100%; border:1px solid grey}
+cite{text-align:center;}
+.linguaggio{background-color:#addeb0;  margin: 10px;padding:25px;border:3px solid green; border-radius:20 px;}
+#conclusione{color:MediumSeaGreen;text-align:center;font-size: 20px;}
+body{background-color:#a8ffac;padding:25px; width:auto;}
